@@ -26,7 +26,7 @@
       <a href = "cls.sh7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <p align="center">
       <a href="#">
-        <img src="https://komarev.com/ghpvc/?username=DoctorsPeppers&color=green&style=flat&label=Views" />
+        <img src="https://komarev.com/ghpvc/?username=CarlosAugustoMelo&color=green&style=flat&label=Views" />
       </a>
     </p>
 </div>
