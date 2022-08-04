@@ -1,6 +1,6 @@
 # Hi 👋 Welcome to my GitHub!
 
-My name is Carlos Augusto, I'm 21 years old, I'm studying Information Technology Management. I have been working with HTML, CSS3, Bootstrap, Javascript, Laravel, PHP, GIT, GITHUB and MYSQL. I like to learn new technologies and share knowledge.
+My name is Carlos Augusto, I'm 22 years old, I'm studying Information Technology Management. I have been working with HTML, CSS3, Bootstrap, Javascript, Laravel, PHP, GIT, GITHUB and MYSQL. I like to learn new technologies and share knowledge.
 
 #
 
