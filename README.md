@@ -4,7 +4,7 @@ My name is Carlos Augusto, I'm 22 years old, I'm studying Information Technology
 
 #
 
-*   🌍  I'm based in São Paulo
+*   🌍  I'm based in São Paulo, Brazil
 *   ✉️  You can contact me at [cls.sh7@gmail.com](mailto:cls.sh7@gmail.com)
 *   🚀  I'm currently working on [Hello Soluções](http://hellosolucoes.com.br/)
 
