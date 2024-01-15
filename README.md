@@ -12,7 +12,7 @@
 ## 🚀 My Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,php,js,py,laravel,bash,html,css,elasticsearch,nginx" />
+    <img src="https://skillicons.dev/icons?i=aws,php,js,py,laravel,bash,nginx" />
   </a>
 </p>
 
