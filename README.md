@@ -10,35 +10,21 @@
 </p>
 
 ## 🚀 My Tech Stack
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,php,js,py,laravel,bash,nginx" />
+    <img src="https://skillicons.dev/icons?i=aws,php,js,py,laravel,bash,nginx,mysql,postgres,linux" />
   </a>
 </p>
 
 ## 🛠️ Tools I use on a daily basis
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="50" />
-    <img src="https://skillicons.dev/icons?i=docker,git,postman,vscode,discord" /> 
-  </a>
-</p> 
-
-## 💾 Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=vscode,docker,git,postman,discord" /> 
   </a>
 </p>
-
-## 💻 SO
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" />
-  </a>
-</p> 
 
 ## 📈 Statistics
 
