@@ -14,6 +14,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,php,js,py,laravel,bash,nginx,mysql,postgres,linux" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" />
   </a>
 </p>
 
