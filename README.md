@@ -2,8 +2,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,php,js,py,laravel,bash,nginx,mysql,postgres,linux" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" />
+    <img src="https://skillicons.dev/icons?i=aws,php,laravel,js,py,java,bash,powershell,nginx,mysql,postgres,linux,windows" />
   </a>
 </p>
 
@@ -11,16 +10,9 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="50" />
-    <img src="https://skillicons.dev/icons?i=vscode,docker,git,postman,discord" /> 
+    <img src="https://skillicons.dev/icons?i=idea,phpstorm,pycharm,docker,git,postman,discord" /> 
   </a>
 </p>
-
-## 📈 Statistics
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shocks7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ## Let's get in touch
 
