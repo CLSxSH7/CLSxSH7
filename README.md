@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shocks7&color=006bed" alt="Profile views" /> </p>
-
 ## 🚀 My Tech Stack
 
 <p align="left">
