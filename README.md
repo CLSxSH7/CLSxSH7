@@ -1,3 +1,10 @@
+<h1 align="left">Hi, I`m Shocks</h1>
+
+<p align="left">
+• 🎓 Degree in IT management at <a href="https://www.sp.senac.br/">SENAC</a>.<BR>
+• 🧠 Enhancing my skills at <a href="https://www.fiap.com.br/">FIAP</a>, <a href="https://desecsecurity.com/">Desec Security</a>, <a href="https://solyd.com.br/">Solyd</a>, and <a href="https://tryhackme.com">TryHackMe</a>.<BR>
+</p>
+
 ## 🚀 My Tech Stack
 
 <p align="left">
@@ -10,7 +17,7 @@
 
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=idea,phpstorm,pycharm,docker,git,postman,discord"/>
+        <img src="https://skillicons.dev/icons?i=idea,docker,git,postman,discord"/>
     </a>
 </p>
 
