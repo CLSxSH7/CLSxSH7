@@ -9,7 +9,7 @@
 
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=aws,php,laravel,js,py,bash,powershell,nginx,mysql,postgres,linux,windows"/>
+        <img src="https://skillicons.dev/icons?i=php,laravel,js,py,c,bash,powershell,nginx,mysql,postgres,aws,linux,windows"/>
     </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=idea,docker,git,postman,discord"/>
+        <img src="https://skillicons.dev/icons?i=phpstorm,pycharm,rider,docker,git,postman,discord"/>
     </a>
 </p>
 
