@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I`m Shocks</h1>
+<h1 align="left">Hi, I`m Carlos</h1>
 
 <p align="left">
 • 🎓 Degree in IT management at <a href="https://www.sp.senac.br/">SENAC</a>.<BR>
