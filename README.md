@@ -1,15 +1,15 @@
 <h1 align="left">Hi, I`m Carlos</h1>
 
 <p align="left">
-• 🎓 I'm graduated in IT management at <a href="https://www.sp.senac.br/">SENAC</a>.<BR>
-• 🧠 Enhancing my skills at <a href="https://www.fiap.com.br/">FIAP</a>, <a href="https://desecsecurity.com/">Desec Security</a>, <a href="https://solyd.com.br/">Solyd</a>, and <a href="https://tryhackme.com">TryHackMe</a>.<BR>
+• 🎓 Graduated in IT management from <a href="https://www.sp.senac.br/">SENAC</a> and Postgraduate in offensive cybersecurity from <a href="https://postech.fiap.com.br/">FIAP</a>.<BR>
+• 🧠 Constantly studying to improve my pentest and programming skills.<BR>
 </p>
 
 ## 🚀 My Tech Stack
 
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,laravel,js,py,c,bash,powershell,nginx,mysql,postgres,aws,linux,windows"/>
+        <img src="https://skillicons.dev/icons?i=php,laravel,js,jquery,py,bash,powershell,mysql,postgres,linux,windows,aws"/>
     </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=phpstorm,pycharm,rider,docker,git,postman,discord"/>
+        <img src="https://skillicons.dev/icons?i=pycharm,vscode,docker,postman"/>
     </a>
 </p>
 
@@ -34,16 +34,7 @@
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
              height="30" alt="linkedin logo"/>
     </a>
-    <a href="https://discord.com/channels/@imshocks" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
-             height="30" alt="discord logo"/>
-    </a>
-    <a href="https://api.whatsapp.com/send?phone=5511948273430&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20seu%20GitHub."
-       target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge"
-             height="30" alt="whatsapp logo"/>
-    </a>
-    <a href="https://tryhackme.com/p/shocks7" target="_blank">
+    <a href="https://tryhackme.com/p/cls.sh7" target="_blank">
         <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge"
              height="30" alt="tryhackme logo"/>
     </a>
