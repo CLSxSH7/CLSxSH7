@@ -1,5 +1,3 @@
-<h1 align="left">Hi, I`m Carlos</h1>
-
 <p align="left">
 • 🎓 Graduated in IT management from <a href="https://www.sp.senac.br/">SENAC</a> and postgraduate in offensive cybersecurity from <a href="https://postech.fiap.com.br/">FIAP</a>.<BR>
 • 🧠 Constantly studying to improve my pentest and programming skills.<BR>
