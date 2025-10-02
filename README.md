@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pycharm,vscode,docker,postman" />
+    <img src="https://skillicons.dev/icons?i=pycharm,phpstorm,vscode,docker,postman" />
     <img src="./burpsuitepng.png" width="55" height="53" />
   </a>
 </p>
