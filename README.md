@@ -46,8 +46,6 @@ focus: Pentest | Red Team | Vulnerability Research
 
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
