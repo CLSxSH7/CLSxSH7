@@ -5,7 +5,7 @@
 
 <!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-augusto-cls-sh7/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/cls.sh7)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/CLSxSH7)
 
 </div>
 
@@ -18,9 +18,6 @@ alias: CLSxSH7
 role: Offensive Security
 focus: Pentest | Red Team | Vulnerability Research
 ```
-
-I'm an offensive security enthusiast focused on **penetration testing**, **red team operations**, and **vulnerability research**. Constantly studying to improve my pentest and programming skills.
-
 ---
 
 ## 🎓 Education & Certifications
@@ -38,24 +35,14 @@ I'm an offensive security enthusiast focused on **penetration testing**, **red t
 
 #### 🔧 Languages & Frameworks
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,jquery,py,bash,powershell,mysql,postgres,linux,windows,aws" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,jquery,py,cs,bash,powershell,mysql,postgres,linux,windows,aws" />
 </a>
 
 #### 🛠️ Tools I use on a daily basis
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pycharm,phpstorm,vscode,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=pycharm,phpstorm,rider,vscode,docker,postman" />
   <img src="./burpsuitepng.png" width="55" height="53" />
 </a>
-
-</div>
-
----
-
-## 🏆 TryHackMe
-
-<div align="center">
-
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/cls.sh7.png)
 
 </div>
 
@@ -64,9 +51,6 @@ I'm an offensive security enthusiast focused on **penetration testing**, **red t
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CLSxSH7&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff0000&icon_color=ff0000&text_color=ffffff" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLSxSH7&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff0000&text_color=ffffff" />
 
 <br/>
 
