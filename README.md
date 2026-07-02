@@ -18,7 +18,6 @@ alias: CLSxSH7
 role: Offensive Security
 focus: Pentest | Red Team | Vulnerability Research
 ```
----
 
 ## 🎓 Education & Certifications
 
@@ -26,8 +25,6 @@ focus: Pentest | Red Team | Vulnerability Research
 - 🎓 Postgraduate in Offensive Cybersecurity from **[FIAP](https://postech.fiap.com.br/)**
 - 🏆 **CRTA — Certified Red Team Analyst**, from **[CyberWarfare Labs](https://cyberwarfare.live/)**
 - 🧠 Constantly studying to improve my pentest and programming skills
-
----
 
 ## ⚡ Tech & Arsenal
 
